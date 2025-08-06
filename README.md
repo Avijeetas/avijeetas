@@ -1,6 +1,28 @@
-👋 Hi, I’m @Avijeetas
-👀 I’m interested in Knowledge Graph, Data Mining, Machine Learning, AI.
-🌱 I’m currently in learning about machine learning on graph, applications of LLMs in KG.
-💞️ I’m looking to collaborate on projects and research on the areas I am interested in.
-📫 How to reach me avijeetshil110@gmail.com
+# 👋 Hi, I’m @Avijeetas
 
+## 👀 I'm passionate about:
+- Knowledge Graphs
+- Data Mining
+- Machine Learning
+- AI
+
+## 🌱 Currently diving into:
+- Machine Learning on graphs
+- Exploring applications of Large Language Models (LLMs) in Knowledge Graphs
+
+## 💞️ I'm looking to collaborate on:
+- Projects and research in the areas of **Machine Learning**, **Data Mining**, **Knowledge Graphs**, and **AI**.
+
+## 🔍 Also seeking:
+- **Software Engineering (SWE)** internships.  
+  - 3 Years of Experience in building Full-Stack Applications  
+  - Frontend Frameworks: Vue, React, Angular  
+  - Backend Frameworks: Java, Spring (Boot + MVC), Python
+  
+- **Research internships**.
+
+## 📚 Find me on Google Scholar:
+- [My Google Scholar Profile](https://scholar.google.com.au/citations?hl=en&pli=1&user=NuIbgCAAAAAJ)
+
+## 📫 Feel free to reach out to me:
+- Email: [avijeetshil110@gmail.com](mailto:avijeetshil110@gmail.com)
