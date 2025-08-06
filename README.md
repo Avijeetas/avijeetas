@@ -2,7 +2,7 @@
 
 ## 👀 I'm passionate about:
 - Knowledge Graphs
-- Data Mining
+- Natural Language Processing
 - Machine Learning
 - AI
 
@@ -21,7 +21,7 @@
   
 - **Research internships**.
 
-## 📚 Find me on Google Scholar:
+## 📚 Find my research on Google Scholar:
 - [My Google Scholar Profile](https://scholar.google.com.au/citations?hl=en&pli=1&user=NuIbgCAAAAAJ)
 
 ## 📫 Feel free to reach out to me:
