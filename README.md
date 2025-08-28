@@ -33,6 +33,9 @@
 ## Find my competitive programming profile:
 [Stopstalk](https://www.stopstalk.com/user/profile/avij33t) 💤
 
+## Find my portfolio:
+[Avijeetas.github.io](https://avijeetas.github.io/)
+
 ## 💼 Connect with me on:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijeetshil) [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avijeetshil110@gmail.com)
 
