@@ -10,6 +10,7 @@
 - Natural Language Processing (NLP)
 - Machine Learning
 - AI
+- Software Engineering Practice
 
 ## Currently diving into:
 - Machine Learning on graphs
