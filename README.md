@@ -1,5 +1,5 @@
 <p align="center">
-  I am looking for internships and full-time scientist/engineering positions starting from <strong>next year</strong>.  <br><br>
+  I am looking for internships and full-time scientist/engineering positions starting from <strong>2026</strong>.  <br><br>
   My preference: <strong>Research/Data Scientist</strong>, <strong>Research/Data/Software Engineer/SWE, ML</strong>.  <br><br>
   Check my <a href="https://drive.google.com/file/d/15N3dyz8PxoEui1aOgwEE9m63aZiQMHis/view?usp=sharing">CV</a> for more details.
 </p>
